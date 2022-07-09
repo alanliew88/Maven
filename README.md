@@ -11,3 +11,5 @@ The config.properties is in the src/test/resources/com.sdet/config.properties
 
 The TestNg test case is written in the src/test/java/com.sdet/apptest.java
 
+
+POM.XML is importing Maven dependencies
